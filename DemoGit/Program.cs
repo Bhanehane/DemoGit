@@ -11,7 +11,7 @@ namespace DemoGit
         static void Main(string[] args)
         {
             //Voilà
-            Console.WriteLine("Hello Harambe");
+            Console.WriteLine("Hello Fred");
             Console.ReadKey();
         }
     }
